@@ -1,0 +1,6 @@
+2023-11-22,choco,2.0,food
+2023-11-22,shirt,5.0,clothes
+2023-11-25,toffee,2.0,food
+2023-11-23,choco,1.0,food
+2023-11-23,shirt,3.0,clothes
+2023-11-24,choco,1.0,food
